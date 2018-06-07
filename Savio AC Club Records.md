@@ -60,7 +60,7 @@
 ||Discus| Luke Farrugia| 19.06m| 2008|
 ||4 x 100m| Peter Valletta, Shaun Livori, Luke Buttigieg, Kristian Bugeja| 58.1| 2008|
 ||Ball Throw| Zack Mangani| 34.01m| 2015|
-||2200 XC| Paul Galea| 8'41.00| 2014|
+||2200 XC| Paul Galea| 8'41"00| 2014|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
@@ -90,7 +90,7 @@
 ||4 x 400m| Michael Aquilina, Matthew Saliba, Carl Vella, J. Mifsud| 4'45.5| 1999|
 ||Hammer Throw| Karol Spiteri| 40.38m| 2014 (NR)|
 ||Ball Throw| Karol Spiteri| 34.15m| 2014|
-||3300 XC| Jake Gauci| 13'02.00| 2014|
+||3300 XC| Jake Gauci| 13'02"00| 2014|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
@@ -416,8 +416,8 @@
 |U/17 (6th Form I)| 60m | Charlene Fenech |  8.16 | 2017|
 ||100m | Charlene Fenech |  13.07 | 2017|
 ||400m | Stephanie Buttigieg |  68.53 | 2017|
-||600m | Stephanie Buttigieg |  1'53'43 | 2017|
-||800m | Stephanie Buttigieg |  2'39'92 | 2017|
+||600m | Stephanie Buttigieg |  1'53"43 | 2017|
+||800m | Stephanie Buttigieg |  2'39"92 | 2017|
 ||Long Jump | Kristy Fenech |  5.06m | 2017|
 
 <a href="#female"><sub>Back to female category list</sub></a>
