@@ -22,6 +22,8 @@
 |U10 (Yr5)| 80m| Daniel Cilia | 13.2|2002|
 ||Long Jump| Daniel Cilia| 3.54m|2002|
 
+<a href="#male"><sub>Back to male category list</sub></a>
+
 <a name="u11m"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -35,6 +37,8 @@
 ||Long Jump|Daniel Cassar|3.51m|2001|
 ||4x100m|Eric Vella, Mark Saliba, Gareth Farrugia, Matthew Buhagiar|67.89|2000|
 ||Ball Throw|Zack Mangani|34.70m|2014|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u12m"></a>
 
@@ -57,6 +61,8 @@
 ||4 x 100m| Peter Valletta, Shaun Livori, Luke Buttigieg, Kristian Bugeja| 58.1| 2008|
 ||Ball Throw| Zack Mangani| 34.01m| 2015|
 ||2200 XC| Paul Galea| 8'41.00| 2014|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u13m"></a>
 
@@ -86,6 +92,7 @@
 ||Ball Throw| Karol Spiteri| 34.15m| 2014|
 ||3300 XC| Jake Gauci| 13'02.00| 2014|
 
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u14m"></a>
 
@@ -115,6 +122,7 @@
 ||Quadrathlon|Jake Gauci|1234pts|2015|
 ||3300 XC|Jake Gauci|11'48"00|2015|
 
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u15m"></a>
 
@@ -146,6 +154,8 @@
 ||3300 XC| Jake Gauci| 11'52"00| 2016|
 ||5km Road| Robert Zammit| 18'33"00| 2008|
 
+<a href="#male"><sub>Back to male category list</sub></a>
+
 <a name="u16m"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -170,6 +180,8 @@
 ||Quadrathlon| Manwel Abela| 1761pts| 2015|
 ||5km Road| Luca Cacciattolo| 17'55"00| 2008|
 
+<a href="#male"><sub>Back to male category list</sub></a>
+
 <a name="u17m"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -191,6 +203,8 @@
 ||Javelin| Malcolm Bugeja| 32.27m| 2009|
 ||Hammer| Joseph Abela| 22.36m| 2014|
 ||5km Road| Clive Falzon| 18'28"00| 2005|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u18m"></a>
 
@@ -215,6 +229,8 @@
 ||Javelin| Malcolm Bugeja| 32.54m| 2010|
 ||4 x 100m| R. Abela, M. Scicluna, S. Azzopardi, A. Sacco| 48.4| 1999|
 ||5km Road| Clive Falzon| 18'20"00| 200|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="opm"></a>
 
@@ -245,6 +261,8 @@
 ||Quadrathlon| Matthew Croker| 2202pts| 2015|
 ||5km Road| Matthew Croker| 16'57"00| 2016|
 
+<a href="#male"><sub>Back to male category list</sub></a>
+
 <a name="op40m"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -253,6 +271,8 @@
 ||10km Road| Raymond Scicluna| 39'39"00| 2015|
 ||Half Marathon| Raymond Scicluna| 1h26'36| 2015|
 ||5km Road| Raymond Scicluna| 18'54"00| 2015|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="op45m"></a>
 
@@ -263,6 +283,8 @@
 ||Half Marathon| Raymond Scicluna| 1h25'47| 2016|
 ||10km| Raymond Scicluna| 39'50'20| 2016|
 ||5km Road| Raymond Scicluna| 18'36"00| 2016|
+
+<a href="#male"><sub>Back to male category list</sub></a>
 
 ### Female
 
@@ -283,6 +305,8 @@
 ||Ball Throw| Giada Scicluna| 10.10m| 2014|
 ||1100 XC| Giada Scicluna| 5'22"00| 2014|
 
+<a href="#female"><sub>Back to female category list</sub></a>
+
 <a name="u11f"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -293,6 +317,8 @@
 ||Ball Throw | Giada Scicluna|  20.20m| 2015|
 ||2200 XC | Giada Scicluna|  9'56"00'| 2015|
 ||1100 XC | Giada Scicluna|  5'18"00'| 2015|
+
+<a href="#female"><sub>Back to female category list</sub></a>
 
 <a name="u12f"></a>
 
@@ -311,6 +337,8 @@
 ||Quadrathlon| Giada Scicluna| 1138pts | 2016 |
 ||2200 XC| Giada Scicluna| 10'13"00 | 2016 |
 
+<a href="#female"><sub>Back to female category list</sub></a>
+
 <a name="u13f"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -325,6 +353,8 @@
 ||Shot| Samantha Gili |7.33m| 2005|
 ||Discus| Erika Pisani| 13.78m| 2006|
 ||2200 XC| Giada Scicluna| 10'47"00| 2017|
+
+<a href="#female"><sub>Back to female category list</sub></a>
 
 <a name="u14f"></a>
 
@@ -341,6 +371,8 @@
 ||Shot| Marylise Sammut| 7.13m| 2005|
 ||Discus| Samantha Gili| 16.65m| 2006|
 ||3300 XC| Stephanie Buttigieg| 17'08"00| 2014|
+
+<a href="#female"><sub>Back to female category list</sub></a>
 
 <a name="u15f"></a>
 
@@ -361,6 +393,8 @@
 ||Quadrathlon| Kristy Fenech| 1540pts| 2015|
 ||3300 XC| Stephanie Buttigieg| 16'40"00| 2015|
 
+<a href="#female"><sub>Back to female category list</sub></a>
+
 <a name="u16f"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -373,6 +407,8 @@
 ||Long Jump | Kristy Fenech |  4.96m | 2016 |
 ||High Jump | Kristy Fenech |  1.33m | 2016 |
 
+<a href="#female"><sub>Back to female category list</sub></a>
+
 <a name="u17f"></a>
 
 | Category | Event | Record Holder | Result |Year|
@@ -383,3 +419,5 @@
 ||600m | Stephanie Buttigieg |  1'53'43 | 2017|
 ||800m | Stephanie Buttigieg |  2'39'92 | 2017|
 ||Long Jump | Kristy Fenech |  5.06m | 2017|
+
+<a href="#female"><sub>Back to female category list</sub></a>
