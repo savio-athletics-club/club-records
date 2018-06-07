@@ -130,7 +130,6 @@
 ||800m| Andrea Caruana| 2'04"45| 2012|
 ||1500m| Clive Falzon| 4'36"31| 2005|
 ||3km| Antoine Borg|10'25"0| 2003|
-||Mdina2Spinola| Luca Cacciattolo| 1h11'27| 2013|
 ||Long Jump| Darren Buttigieg| 4.99m| 2009|
 ||High Jump| Matthew Saliba| 1.60m| 2003|
 ||Shot| Malcolm Bugeja| 11.04m| 2009|
@@ -150,7 +149,6 @@
 ||1500m| Matthew Farrugia| 4'36"70| 2006|
 ||3km| Matthew Farrugia| 10'16"6| 2006|
 ||5km| Isaias Tesfay| 16'20"5| 2005|
-||Mdina2Spinola| Luca Cacciattolo| 1h10'39| 2014|
 ||Long Jump| Jonathan Spiteri| 4.47m| 2003|
 ||High Jump| Matthew Saliba| 1.55m| 2004|
 ||Triple Jump| Matthew Farrugia| 9.25m| 2006|
@@ -171,7 +169,7 @@
 ||3km| Janathan Atse Herrera| 9'40"51| 2014|
 ||5km| Isaias Tesfay| 16'20"5| 2005|
 ||10km Road| Matthew Farrugia| 35'25"00| 2007|
-||Mdina2Spinola| Matthew Saliba| 1h13'49| 2015|
+||Mdina2Spinola| Luca Cacciattolo| 1h10'39| 2014|
 ||Half Marathon| David Dimech| 1h33'39| 2017|
 ||Marathon| Carlos Mantero| 2h43'16| 2015|
 ||Long Jump| David Camilleri| 5.72m| 2014|
