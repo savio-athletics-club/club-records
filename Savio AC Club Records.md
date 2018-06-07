@@ -50,8 +50,8 @@
 ||100m |        Darren Buttigieg | 14.0| 2004|
 ||150m |        Sacha Dunlop | 22.3| 2003|
 ||300m |        Matthew Croker | 43.7| 2001|
-||600m |        Kurstin Gatt | 1'48.8| 2004|
-||1000m|        Clive Falzon | 3'32.5| 2000|
+||600m |        Kurstin Gatt | 1'48"8| 2004|
+||1000m|        Clive Falzon | 3'32"5| 2000|
 ||1200m| Kurstin Gatt| 4'02.5| 2004|
 ||Long Jump| Mattias Palmier| 4.21m| 2010|
 ||High Jump| Luke Vella |1.35m| 2005|
@@ -78,9 +78,9 @@
 ||400m| Matthew Croker| 58.3| 2002|
 ||600m| Kurstin Gatt| 1'39.18| 2005|
 ||800m| Kurstin Gatt| 2'18| 2005|
-||1000m| Michael Aquilina| 3'20.5| 2000|
-||1200m| Robert Zammit| 3'45.3| 2006|
-||1500m| Robert Zammit| 5'12.0| 2006|
+||1000m| Michael Aquilina| 3'20"5| 2000|
+||1200m| Robert Zammit| 3'45"3| 2006|
+||1500m| Robert Zammit| 5'12"0| 2006|
 ||Long Jump| Peter Valletta| 4.71m| 2009|
 ||High Jump| Luke Vella| 1.46m| 2006|
 ||Shot|Karol Spiteri|12.68m|2014 (NR)|
