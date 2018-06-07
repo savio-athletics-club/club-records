@@ -16,4 +16,4 @@ the Salesian ethos.
 
 ## Our presence on GitHub
 
-Savio AC is young and vibrant, and we are always on the lookout for how we can better embrace technology within our processes. We have identified that version control is indeed a problem we have in our Club to keep our documents up to date. We are therefore launching our GitHub page with the aim of keeping track of our most important documents, such as our [Club Records](Savio AC Club Records.md).
+Savio AC is young and vibrant, and we are always on the lookout for how we can better embrace technology within our processes. We have identified that version control is indeed a problem we have in our Club to keep our documents up to date. We are therefore launching our GitHub page with the aim of keeping track of our most important documents, such as our [Club Records](https://github.com/savio-athletics-club/club-records/blob/master/Savio%20AC%20Club%20Records.md).
