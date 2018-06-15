@@ -7,7 +7,7 @@ Savio AC is an athletics club based in Savio College, Dingli, in the island of M
 * Athlete-centric
 * Positive
 * Innovative and Future Looking
-* Professional Attiude
+* Professional Attitude
 
 Our mission statement is the following:
 
