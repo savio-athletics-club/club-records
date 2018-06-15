@@ -141,7 +141,7 @@
 ||1200m| Malcolm James Vassallo| 3'49"29| 2017|
 ||1500m| Michael Aquilina| 4'42"0| 2001|
 ||3km| Kurt Dalli| 9'58"83| 2011|
-||Long Jump| Liam Gauci| 5.51m| 2015|
+||Long Jump| Zack Mangani| 5.65m| 2018|
 ||High Jump| David Camilleri| 1.60m| 2007|
 ||Triple Jump| David Camilleri| 11.70m| 2007|
 ||Shot| Karol Spiteri| 12.17m| 2016|
