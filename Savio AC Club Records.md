@@ -228,7 +228,7 @@
 ||Discus| Joseph Abela| 33.86m| 2015|
 ||Javelin| Malcolm Bugeja| 32.54m| 2010|
 ||4 x 100m| R. Abela, M. Scicluna, S. Azzopardi, A. Sacco| 48.4| 1999|
-||5km Road| Clive Falzon| 18'20"00| 200|
+||5km Road| Clive Falzon| 18'20"00| 2006|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
