@@ -255,7 +255,7 @@
 ||High Jump| Matthew Saliba| 1.70m| 2005|
 ||Triple Jump| David Camilleri| 12.09m| 2014|
 ||Shot| Luke Gauci| 10.38m| 2011|
-||Discus| Joseph Abela| 34.59m| 2016|
+||Discus| Joseph Abela| 36.29 m| 2018|
 ||Javelin| Malcolm Bugeja| 33.02m| 2013|
 ||4 x 100m| Matthew Croker, Sacha Dunlop, Luca Cacciattolo, David Camilleri| 45.25| 2016|
 ||Quadrathlon| Matthew Croker| 2202pts| 2015|
