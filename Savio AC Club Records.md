@@ -199,7 +199,7 @@
 ||High Jump| Matthew Saliba| 1.60m| 2003|
 ||Shot| Malcolm Bugeja| 11.04m| 2009|
 ||Discus| Luke Gauci| 32.99m| 2009|
-||Discus| Joseph Abela| 37.23m| 2014|
+||Discus| Karol Spiteri| 38.78m| 2018|
 ||Javelin| Malcolm Bugeja| 32.27m| 2009|
 ||Hammer| Joseph Abela| 22.36m| 2014|
 ||5km Road| Clive Falzon| 18'28"00| 2005|
