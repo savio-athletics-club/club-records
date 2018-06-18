@@ -192,7 +192,7 @@
 ||200m| Matthew Croker| 23.32| 2006|
 ||300m| Matthew Croker| 37.10| 2006|
 ||400m| Matthew Croker| 51.35| 2006|
-||800m| Andrea Caruana| 2'04"45| 2012|
+||800m| Jake Gauci| 2'04"43| 2018|
 ||1500m| Jake Gauci| 4'19"31| 2018|
 ||3km| Jake Gauci|9'46"91| 2018|
 ||Long Jump| Darren Buttigieg| 4.99m| 2009|
