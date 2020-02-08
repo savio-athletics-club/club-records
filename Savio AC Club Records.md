@@ -195,7 +195,7 @@
 ||800m| Jake Gauci| 2'04"43| 2018|
 ||1500m| Jake Gauci| 4'19"31| 2018|
 ||3km| Jake Gauci|9'46"91| 2018|
-||Long Jump| Darren Buttigieg| 4.99m| 2009|
+||Long Jump| Zack Mangani| 5.90m| 2020|
 ||High Jump| Matthew Saliba| 1.60m| 2003|
 ||Shot| Malcolm Bugeja| 11.04m| 2009|
 ||Discus| Luke Gauci| 32.99m| 2009|
