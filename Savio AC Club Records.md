@@ -248,8 +248,8 @@
 ||3km| Janathan Atse Herrera| 9'40"51| 2014|
 ||5km| Isaias Tesfay| 16'20"5| 2005|
 ||10km Road| Matthew Farrugia| 35'25"00| 2007|
-||Mdina2Spinola| Luca Cacciattolo| 1h10'39| 2014|
-||Half Marathon| David Dimech| 1h33'39| 2017|
+||Mdina2Spinola| Johan Bugeja| 1h08'11| 2018|
+||Half Marathon| Johan Bugeja| 1h23'32| 2020|
 ||Marathon| Carlos Mantero| 2h43'16| 2015|
 ||Long Jump| David Camilleri| 5.72m| 2014|
 ||High Jump| Matthew Saliba| 1.70m| 2005|
