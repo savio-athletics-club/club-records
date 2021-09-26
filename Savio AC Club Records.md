@@ -221,7 +221,7 @@
 ||1500m| Matthew Farrugia| 4'36"70| 2006|
 ||3km| Matthew Farrugia| 10'16"6| 2006|
 ||5km| Isaias Tesfay| 16'20"5| 2005|
-||Long Jump| Jonathan Spiteri| 4.47m| 2003|
+||Long Jump| Zack Mangani| 6.56m| 2021|
 ||High Jump| Matthew Saliba| 1.55m| 2004|
 ||Triple Jump| Matthew Farrugia| 9.25m| 2006|
 ||Shot| Luke Gauci| 10.98m| 2010|
