@@ -210,7 +210,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/18 (6th Form II)| 60m| Manwel Abela| 7.73| 2017|
+|U/18 (6th Form II)| 60m| Zack Mangani| 7.69| 2021|
 ||100m| Darren Buttigieg| 12.10| 2010|
 ||200m| Matthew Croker| 23.41| 2007|
 ||300m| Matthew Croker| 36.65| 2007|
