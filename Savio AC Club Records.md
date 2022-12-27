@@ -186,7 +186,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/17 (6th Form I)| 60m| Manwel Abela| 7.61| 2016|
+|U/17 (6th Form I)| 60m| Jordan Pace| 7.56| 2022|
 ||100m| Matthew Croker| 11.55| 2006|
 ||150m| Darren Buttigieg| 18.1| 2009|
 ||200m| Matthew Croker| 23.32| 2006|
