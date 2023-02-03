@@ -146,6 +146,7 @@
 ||1000m| Matthew Grima| 2'59"6| 1999|
 ||1200m| Malcolm James Vassallo| 3'49"29| 2017|
 ||1500m| Michael Aquilina| 4'42"0| 2001|
+||1500m SC| Adam Caruana| 5'43"98| 2022|
 ||3km| Kurt Dalli| 9'58"83| 2011|
 ||Long Jump| Zack Mangani| 5.65m| 2018|
 ||High Jump| David Camilleri| 1.60m| 2007|
@@ -175,6 +176,7 @@
 ||800m| Jake Gauci|  2'09"78| 2017|
 ||1000m| Jake Gauci| 3'00"6 |2017|
 ||1500m| Kurt Dalli| 4'36"66| 2012|
+||2000m SC| Adam Caruana| 7'57"81| 2023|
 ||3km| Antoine Borg| 10'15"0| 2002|
 ||5km| Kurt Dalli|17'41"21| 2012|
 ||Long Jump| James Schembri| 5.55m| 2005|
