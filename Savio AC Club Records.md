@@ -464,9 +464,9 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|Open - Female | 60m||||
-||100m||||
-||200m||||
+|Open - Female | 60m| Charlene Fenech|8.16|2021|
+||100m|Charlene Fenech|12.74|2019|
+||200m|Charlene Fenech|26.61|2019|
 ||300m||||
 ||400m||||
 ||600m||||
@@ -478,7 +478,7 @@
 ||10km Road||||
 ||Half Marathon||||
 ||Marathon||||
-||Long Jump||||
+||Long Jump|Kristy Fenech|5.07|2019|
 ||High Jump||||
 ||Triple Jump||||
 ||Shot||||
