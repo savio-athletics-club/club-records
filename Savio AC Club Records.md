@@ -2,33 +2,33 @@
 
 ### Male
 
-* [U10 (Yr5)](#u10m)
-* [U11 (Yr6)](#u11m)
-* [U12 (Form 1)](#u12m)
-* [U13 (Form 2)](#u13m)
-* [U14 (Form 3)](#u14m)
-* [U15 (Form 4)](#u15m)
-* [U16 (Form 5)](#u16m)
-* [U17 (6th Form I)](#u17m)
-* [U18 (6th Form II)](#u18m)
+* [U11 (Yr5)](#u11m)
+* [U12 (Yr6)](#u12m)
+* [U13 (Form 1)](#u13m)
+* [U14 (Form 2)](#u14m)
+* [U15 (Form 3)](#u15m)
+* [U16 (Form 4)](#u16m)
+* [U17 (Form 5)](#u17m)
+* [U18 (6th Form I)](#u18m)
+* [U19 (6th Form II)](#u19m)
 * [Open](#opm)
 * [O/40](#op40m)
 * [O/45](#op45m)
-
-<a name="u10m"></a>
-
-| Category | Event | Record Holder | Result |Year|
-|:--------:|:------|:--------------|:------:|----:|
-|U10 (Yr5)| 80m| Daniel Cilia | 13.2|2002|
-||Long Jump| Daniel Cilia| 3.54m|2002|
-
-<a href="#male"><sub>Back to male category list</sub></a>
 
 <a name="u11m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U11 (Yr6)|60m|Daniel Farrugia|9.00|2009|
+|U11 (Yr5)| 80m| Daniel Cilia | 13.2|2002|
+||Long Jump| Daniel Cilia| 3.54m|2002|
+
+<a href="#male"><sub>Back to male category list</sub></a>
+
+<a name="u12m"></a>
+
+| Category | Event | Record Holder | Result |Year|
+|:--------:|:------|:--------------|:------:|----:|
+|U12 (Yr6)|60m|Daniel Farrugia|9.00|2009|
 ||80m|David Psaila|12.40|2000|
 ||80m|Matthew Croker|12.40|2000|
 ||300m|Eric Vella|55.30|2000|
@@ -40,11 +40,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u12m"></a>
+<a name="u13m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U12 (Form1)|75m Hurdles | Kurstin Gatt | 13.1| 2004|
+|U13 (Form1)|75m Hurdles | Kurstin Gatt | 13.1| 2004|
 ||60m  |        Peter Valletta | 8.49| 2008|
 ||80m  |        Glanville Goodlip | 11.3| 2001|
 ||100m |        Darren Buttigieg | 14.0| 2004|
@@ -64,11 +64,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u13m"></a>
+<a name="u14m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U13 (Form 2)|75m Hurdles Kurstin Gatt| 11.99| 2005|
+|U14 (Form 2)|75m Hurdles Kurstin Gatt| 11.99| 2005|
 ||60m| Darren Buttigieg| 8.09| 2005|
 ||80m| Peter Valletta| 10.6| 2009|
 ||100m| Matthew Croker| 12.3 |2002|
@@ -94,11 +94,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u14m"></a>
+<a name="u15m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/14|(Form 3)|80m Hurdles|Clayton Bezzina|16.14|2006|
+|U/15|(Form 3)|80m Hurdles|Clayton Bezzina|16.14|2006|
 ||60m|Sacha Dunlop|7.93|2005|
 ||80m|Antoine Borg|11.8|2000|
 ||100m|Matthew Croker|12.1|2003|
@@ -124,11 +124,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u15m"></a>
+<a name="u16m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/15 (Form 4)| 60m| Darren Buttigieg| 7.42| 2007|
+|U/16 (Form 4)| 60m| Darren Buttigieg| 7.42| 2007|
 ||100m| Matthew Croker| 11.6| 2004|
 ||100m| David Schembri| 11.6| 2002|
 ||150m| Darren Buttigieg| 18.31| 2007|
@@ -156,11 +156,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u16m"></a>
+<a name="u17m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/16 (Form 5)| 60m| Darren Buttigieg| 7.40| 2008|
+|U/17 (Form 5)| 60m| Darren Buttigieg| 7.40| 2008|
 ||100m| Matthew Croker| 11.59| 2005|
 ||200m| Matthew Croker| 23.75| 2005|
 ||300m| Matthew Croker| 38.03| 2005|
@@ -182,11 +182,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u17m"></a>
+<a name="u18m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/17 (6th Form I)| 60m| Jordan Pace| 7.56| 2022|
+|U/18 (6th Form I)| 60m| Jordan Pace| 7.56| 2022|
 ||100m| Matthew Croker| 11.55| 2006|
 ||150m| Darren Buttigieg| 18.1| 2009|
 ||200m| Matthew Croker| 23.32| 2006|
@@ -206,11 +206,11 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
-<a name="u18m"></a>
+<a name="u19m"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/18 (6th Form II)| 60m| Jordan Pace| 7.55| 2023|
+|U/19 (6th Form II)| 60m| Jordan Pace| 7.55| 2023|
 ||100m| Darren Buttigieg| 12.10| 2010|
 ||200m| Matthew Croker| 23.41| 2007|
 ||300m| Matthew Croker| 36.65| 2007|
@@ -288,30 +288,32 @@
 
 ### Female
 
-* [U10 (Yr5)](#u10f)
-* [U11 (Yr6)](#u11f)
-* [U12 (Form 1)](#u12f)
-* [U13 (Form 2)](#u13f)
-* [U14 (Form 3)](#u14f)
-* [U15 (Form 4)](#u15f)
-* [U16 (Form 5)](#u16f)
-* [U17 (6th Form I)](#u17f)
-
-<a name="u10f"></a>
-
-| Category | Event | Record Holder | Result |Year|
-|:--------:|:------|:--------------|:------:|----:|
-|U/10 (Year 5)| 60m| Giada Scicluna| 9.9| 2014|
-||Ball Throw| Giada Scicluna| 10.10m| 2014|
-||1100 XC| Giada Scicluna| 5'22"00| 2014|
-
-<a href="#female"><sub>Back to female category list</sub></a>
+* [U11 (Yr5)](#u11f)
+* [U12 (Yr6)](#u12f)
+* [U13 (Form 1)](#u13f)
+* [U14 (Form 2)](#u14f)
+* [U15 (Form 3)](#u15f)
+* [U16 (Form 4)](#u16f)
+* [U17 (Form 5)](#u17f)
+* [U18 (6th Form I)](#u18f)
+* [U19 (6th Form II)](#u19f)
+* [Open](#opf)
 
 <a name="u11f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/11 (Year 6)| 60m | Giada Scicluna|  9.56| 2015|
+|U/11 (Year 5)| 60m| Giada Scicluna| 9.9| 2014|
+||Ball Throw| Giada Scicluna| 10.10m| 2014|
+||1100 XC| Giada Scicluna| 5'22"00| 2014|
+
+<a href="#female"><sub>Back to female category list</sub></a>
+
+<a name="u12f"></a>
+
+| Category | Event | Record Holder | Result |Year|
+|:--------:|:------|:--------------|:------:|----:|
+|U/12 (Year 6)| 60m | Giada Scicluna|  9.56| 2015|
 ||300m | Giada Scicluna|  54.37| 2015|
 ||Long Jump | Giada Scicluna|  3.45m| 2015|
 ||Ball Throw | Giada Scicluna|  20.20m| 2015|
@@ -320,11 +322,11 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u12f"></a>
+<a name="u13f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/12 (Form 1)| 60m| Giada Scicluna| 9.41| 2016 |
+|U/13 (Form 1)| 60m| Giada Scicluna| 9.41| 2016 |
 ||100m| Giada Scicluna| 14.73 | 2016 |
 ||150m| Giada Scicluna| 24.08 | 2016 |
 ||300m| Giada Scicluna| 48.30 | 2016 |
@@ -339,11 +341,11 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u13f"></a>
+<a name="u14f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/13 (Form 2)| 60m| Giada Scicluna| 9.56| 2017|
+|U/14 (Form 2)| 60m| Giada Scicluna| 9.56| 2017|
 ||100m |Giada Scicluna| 14.29| 2017|
 ||300m |Giada Scicluna| 47.92| 2017|
 ||600m |Giada Scicluna| 1'57"67| 2017|
@@ -356,11 +358,11 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u14f"></a>
+<a name="u15f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/14 (Form 3)| 60m| Charlene Fenech| 8.82| 2014|
+|U/15 (Form 3)| 60m| Charlene Fenech| 8.82| 2014|
 ||100m| Caroline Abela| 14.95| 2006|
 ||150m| Kristy Fenech| 21.5| 2014|
 ||200m| Caroline Abela| 31.97| 2006|
@@ -374,11 +376,11 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u15f"></a>
+<a name="u16f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/15 (Form 4)| 60m |Charlene Fenech| 8.56| 2015|
+|U/16 (Form 4)| 60m |Charlene Fenech| 8.56| 2015|
 ||100m |Charlene Fenech| 13.53| 2015|
 ||200m |Charlene Fenech| 28.40| 2015|
 ||300m |Charlene Fenech| 45.79| 2015|
@@ -395,11 +397,11 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u16f"></a>
+<a name="u17f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/16 (Form 5)| 60m | Charlene Fenech |  8.56 | 2016 |
+|U/17 (Form 5)| 60m | Charlene Fenech |  8.56 | 2016 |
 ||100m | Charlene Fenech |  13.07 | 2016 |
 ||600m | Stephanie Buttigieg |  1'46"32 | 2016 |
 ||800m | Stephanie Buttigieg |  2'40"40 | 2016 |
@@ -409,15 +411,33 @@
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
-<a name="u17f"></a>
+<a name="u18f"></a>
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/17 (6th Form I)| 60m | Charlene Fenech |  8.16 | 2017|
+|U/18 (6th Form I)| 60m | Charlene Fenech |  8.16 | 2017|
 ||100m | Charlene Fenech |  13.07 | 2017|
 ||400m | Stephanie Buttigieg |  68.53 | 2017|
 ||600m | Stephanie Buttigieg |  1'53"43 | 2017|
 ||800m | Stephanie Buttigieg |  2'39"92 | 2017|
 ||Long Jump | Kristy Fenech |  5.06m | 2017|
+
+<a href="#female"><sub>Back to female category list</sub></a>
+
+<a name="u19f"></a>
+
+| Category | Event | Record Holder | Result |Year|
+|:--------:|:------|:--------------|:------:|----:|
+|U/19 (6th Form II)| |  |   | |
+|| |  |   | |
+
+<a href="#female"><sub>Back to female category list</sub></a>
+
+<a name="opf"></a>
+
+| Category | Event | Record Holder | Result |Year|
+|:--------:|:------|:--------------|:------:|----:|
+|Open - Female|  |  |   | |
+|| |  |   | |
 
 <a href="#female"><sub>Back to female category list</sub></a>
