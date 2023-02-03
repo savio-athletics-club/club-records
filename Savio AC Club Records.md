@@ -439,8 +439,8 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/19 (6th Form II) | 60m||||
-||100m||||
+|U/19 (6th Form II) | 60m| Charlene Fenech|8.19|2018|
+||100m| Charlene Fenech| 12.79| 2018|
 ||200m||||
 ||300m||||
 ||400m||||
@@ -453,9 +453,9 @@
 ||10km Road||||
 ||Half Marathon||||
 ||Marathon||||
-||Long Jump||||
+||Long Jump| Kristy Fenech| 4.69m| 2018|
 ||High Jump||||
-||Triple Jump||||
+||Triple Jump| Kristy Fenech| 10.03| 2018|
 ||Shot||||
 ||Discus||||
 ||Javelin||||
