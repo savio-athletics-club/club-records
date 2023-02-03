@@ -336,13 +336,13 @@
 |:--------:|:------|:--------------|:------:|----:|
 |U/13 (Form 1)| 60m| Giada Scicluna| 9.41| 2016 |
 ||100m| Giada Scicluna| 14.73 | 2016 |
-||150m| Giada Scicluna| 24.08 | 2016 |
+||150m| Livia Vella Anastasi| 22.65 | 2023 |
 ||300m| Giada Scicluna| 48.30 | 2016 |
 ||600m| Giada Scicluna| 1'56"74 | 2016 |
 ||800m| Giada Scicluna| 2'50"79 | 2016 |
 ||1000m| Giada Scicluna| 3'50"71 | 2016 |
 ||1200m| Giada Scicluna| 4'29"87 | 2016 |
-||Long Jump| Giada Scicluna| 3.44m | 2016 |
+||Long Jump| Mariah Darmanin| 3.72m | 2023 |
 ||High Jump| Giada Scicluna| 1.24m | 2016 |
 ||Quadrathlon| Giada Scicluna| 1138pts | 2016 |
 ||2200 XC| Giada Scicluna| 10'13"00 | 2016 |
