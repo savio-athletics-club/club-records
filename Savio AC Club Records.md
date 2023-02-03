@@ -426,10 +426,29 @@
 
 <a name="u19f"></a>
 
-| Category | Event | Record Holder | Result |Year|
-|:--------:|:------|:--------------|:------:|----:|
-|U/19 (6th Form II)| |  |   | |
-|| |  |   | |
+|U/19 (6th Form II) | 60m||||
+||100m||||
+||200m||||
+||300m||||
+||400m||||
+||600m||||
+||800m||||
+||1000m||||
+||1500m||||
+||3km||||
+||5km||||
+||10km Road||||
+||Half Marathon||||
+||Marathon||||
+||Long Jump||||
+||High Jump||||
+||Triple Jump||||
+||Shot||||
+||Discus||||
+||Javelin||||
+||4 x 100m||||
+||Quadrathlon||||
+||5km Road||||
 
 <a href="#female"><sub>Back to female category list</sub></a>
 
@@ -437,7 +456,28 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|Open - Female|  |  |   | |
-|| |  |   | |
+|Open - Female | 60m||||
+||100m||||
+||200m||||
+||300m||||
+||400m||||
+||600m||||
+||800m||||
+||1000m||||
+||1500m||||
+||3km||||
+||5km||||
+||10km Road||||
+||Half Marathon||||
+||Marathon||||
+||Long Jump||||
+||High Jump||||
+||Triple Jump||||
+||Shot||||
+||Discus||||
+||Javelin||||
+||4 x 100m||||
+||Quadrathlon||||
+||5km Road||||
 
 <a href="#female"><sub>Back to female category list</sub></a>
