@@ -313,7 +313,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/11 (Year 5)| 60m| Giada Scicluna| 9.9| 2014|
+|U/11 (Year 5)| 60m| Keira Degiorgio| 9.76| 2023|
 ||Ball Throw| Giada Scicluna| 10.10m| 2014|
 ||1100 XC| Giada Scicluna| 5'22"00| 2014|
 
@@ -378,7 +378,8 @@
 ||200m| Caroline Abela| 31.97| 2006|
 ||300m| Stephanie Buttigieg| 58.31| 2014|
 ||400m| Marylise Sammut| 76.2| 2005|
-||Long Jump |Marylise Sammut| 3.95m| 2005|
+||600m| Skye Paulusma| 1'51"44| 2023|
+||Long Jump |Skye Paulusma| 4.67m| 2023|
 ||High Jump |Samantha Gili| 1.15m| 2006|
 ||Shot| Marylise Sammut| 7.13m| 2005|
 ||Discus| Samantha Gili| 16.65m| 2006|
