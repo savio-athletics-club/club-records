@@ -292,6 +292,8 @@
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
+<a href="#top"><sub>Back to top of page</sub></a>
+
 ### Female
 
 * [U11 (Yr5)](#u11f)
