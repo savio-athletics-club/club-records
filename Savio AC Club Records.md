@@ -247,7 +247,7 @@
 |Open| 60m| Matthew Croker| 7.3| 2007|
 ||100m| Matthew Croker| 11.47| 2014|
 ||200m| Matthew Croker| 22.54| 2014|
-||300m| Matthew Croker| 36.57| 2013|
+||300m| Matthew Croker| 36.00| 2022|
 ||400m| Matthew Croker| 49.23| 2014|
 ||600m| Matthew Croker| 1'23"41| 2017|
 ||800m| Matthew Croker| 1'53"72| 2016|
