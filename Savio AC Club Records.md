@@ -253,7 +253,7 @@
 ||800m| Matthew Croker| 1'53"72| 2016|
 ||1000m| Matthew Croker| 2'35"5| 2017|
 ||1500m| Matthew Croker| 4'18"39| 2016|
-||3km| Janathan Atse Herrera| 9'40"51| 2014|
+||3km| Kurt Dalli| 9'28"47| 2023|
 ||5km| Isaias Tesfay| 16'20"5| 2005|
 ||10km Road| Matthew Farrugia| 35'25"00| 2007|
 ||Mdina2Spinola| Johan Bugeja| 1h08'11| 2018|
@@ -267,7 +267,7 @@
 ||Javelin| Malcolm Bugeja| 33.02m| 2013|
 ||4 x 100m| Matthew Croker, Sacha Dunlop, Luca Cacciattolo, David Camilleri| 45.25| 2016|
 ||Quadrathlon| Matthew Croker| 2202pts| 2015|
-||5km Road| Matthew Croker| 16'57"00| 2016|
+||5km Road| Kurt Dalli| 16'09"00| 2023|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
