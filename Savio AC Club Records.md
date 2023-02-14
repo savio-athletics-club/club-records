@@ -218,12 +218,12 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/19 (6th Form II)| 60m| Jordan Pace| 7.55| 2023|
+|U/19 (6th Form II)| 60m| Jordan Pace| 7.50| 2023|
 ||100m| Darren Buttigieg| 12.10| 2010|
 ||200m| Matthew Croker| 23.41| 2007|
 ||300m| Matthew Croker| 36.65| 2007|
 ||400m| Matthew Croker| 51.42| 2007|
-||600m| Jonathan Cutajar| 1'35"72| 2017|
+||600m| Jordan Pace| 1'31"05| 2023|
 ||800m| Isaias Tesfay| 2'07"6| 2005|
 ||1000m| Kurt Dalli| 2'52"9| 2014|
 ||1500m| Matthew Farrugia| 4'36"70| 2006|
