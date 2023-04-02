@@ -219,7 +219,7 @@
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
 |U/19 (6th Form II)| 60m| Jordan Pace| 7.50| 2023|
-||100m| Darren Buttigieg| 12.10| 2010|
+||100m| Jordan Pace| 11.64| 2023|
 ||200m| Matthew Croker| 23.41| 2007|
 ||300m| Matthew Croker| 36.65| 2007|
 ||400m| Matthew Croker| 51.42| 2007|
