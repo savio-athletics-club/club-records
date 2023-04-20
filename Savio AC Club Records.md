@@ -344,6 +344,8 @@
 ||800m| Giada Scicluna| 2'50"79 | 2016 |
 ||1000m| Giada Scicluna| 3'50"71 | 2016 |
 ||1200m| Giada Scicluna| 4'29"87 | 2016 |
+||Shot Putt| Chloe Ann Farrugia| 6.69m | 2023 |
+||Discus| Chloe Ann Farrugia| 14.93 | 2023 |
 ||Long Jump| Mariah Darmanin| 3.72m | 2023 |
 ||High Jump| Giada Scicluna| 1.24m | 2016 |
 ||Quadrathlon| Giada Scicluna| 1138pts | 2016 |
