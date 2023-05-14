@@ -222,7 +222,7 @@
 ||100m| Jordan Pace| 11.64| 2023|
 ||200m| Jordan Pace| 23.20| 2023|
 ||300m| Matthew Croker| 36.65| 2007|
-||400m| Matthew Croker| 51.42| 2007|
+||400m| Jordan Pace| 51.20| 2023|
 ||600m| Jordan Pace| 1'31"05| 2023|
 ||800m| Isaias Tesfay| 2'07"6| 2005|
 ||1000m| Kurt Dalli| 2'52"9| 2014|
