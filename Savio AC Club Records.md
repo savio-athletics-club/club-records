@@ -220,7 +220,7 @@
 |:--------:|:------|:--------------|:------:|----:|
 |U/19 (6th Form II)| 60m| Jordan Pace| 7.50| 2023|
 ||100m| Jordan Pace| 11.64| 2023|
-||200m| Jordan Pace| 23.20| 2023|
+||200m| Jordan Pace| 23.02| 2023|
 ||300m| Matthew Croker| 36.65| 2007|
 ||400m| Jordan Pace| 51.20| 2023|
 ||600m| Jordan Pace| 1'31"05| 2023|
