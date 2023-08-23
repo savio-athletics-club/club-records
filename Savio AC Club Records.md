@@ -336,9 +336,10 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/13 (Form 1)| 60m| Giada Scicluna| 9.41| 2016 |
-||100m| Giada Scicluna| 14.73 | 2016 |
+|U/13 (Form 1)| 60m| Livia Vella Anastasi| 9.10| 2023 |
+||100m| Livia Vella Anastasi| 13.62 | 2023 |
 ||150m| Livia Vella Anastasi| 22.65 | 2023 |
+||200m| Livia Vella Anastasi| 31.04 | 2023 |
 ||300m| Giada Scicluna| 48.30 | 2016 |
 ||600m| Giada Scicluna| 1'56"74 | 2016 |
 ||800m| Giada Scicluna| 2'50"79 | 2016 |
