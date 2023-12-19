@@ -222,6 +222,7 @@
 ||100m| Jordan Pace| 11.64| 2023|
 ||200m| Jordan Pace| 23.02| 2023|
 ||300m| Jordan Pace| 36.55| 2023|
+||300mH| Jordan Pace| 42.19| 2023|
 ||400m| Jordan Pace| 51.20| 2023|
 ||600m| Jordan Pace| 1'31"05| 2023|
 ||800m| Isaias Tesfay| 2'07"6| 2005|
