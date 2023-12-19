@@ -337,7 +337,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/13 (Form 1)| 60m| Livia Vella Anastasi| 9.10| 2023 |
+|U/13 (Form 1)| 60m| Livia Vella Anastasi| 8.64| 2023 |
 ||100m| Livia Vella Anastasi| 13.62 | 2023 |
 ||150m| Livia Vella Anastasi| 22.65 | 2023 |
 ||200m| Livia Vella Anastasi| 31.04 | 2023 |
