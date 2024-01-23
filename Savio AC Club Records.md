@@ -367,7 +367,7 @@
 ||Long Jump| Erika Pisani| 3.69m| 2006|
 ||High Jump| Erika Pisani| 1.15m| 2006|
 ||Shot| Samantha Gili |7.33m| 2005|
-||Discus| Erika Pisani| 13.78m| 2006|
+||Discus| Mariah Darmanin| 14.76m| 2024|
 ||2200 XC| Giada Scicluna| 10'47"00| 2017|
 
 <a href="#female"><sub>Back to female category list</sub></a>
