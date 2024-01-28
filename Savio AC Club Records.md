@@ -201,6 +201,7 @@
 ||300m| Matthew Croker| 37.10| 2006|
 ||400m| Matthew Croker| 51.35| 2006|
 ||800m| Jake Gauci| 2'04"43| 2018|
+||1000m| Adam Caruana| 3'07"67| 2024|
 ||1500m| Jake Gauci| 4'19"31| 2018|
 ||3km| Jake Gauci|9'46"91| 2018|
 ||Long Jump| Zack Mangani| 5.90m| 2020|
