@@ -183,7 +183,7 @@
 ||High Jump| David Camilleri| 1.65m| 2008|
 ||Triple Jump| James Schembri| 11.14m| 2005|
 ||Shot| Malcolm Bugeja| 10.26m| 2008|
-||Discus| Joseph Abela| 29.96m| 2013|
+||Discus| Samuel Bonello| 30.77m| 2024|
 ||Javelin| Malcolm Bugeja| 28.52m| 2008|
 ||Quadrathlon| Manwel Abela| 1761pts| 2015|
 ||5km Road| Luca Cacciattolo| 17'55"00| 2008|
