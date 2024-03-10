@@ -366,7 +366,7 @@
 ||300m |Giada Scicluna| 47.92| 2017|
 ||600m |Giada Scicluna| 1'57"67| 2017|
 ||1200m| Elena Zammit |4'51"63 |2017|
-||Long Jump| Erika Pisani| 3.69m| 2006|
+||Long Jump| Mariah Darmanin| 3.75m| 2024|
 ||High Jump| Erika Pisani| 1.15m| 2006|
 ||Shot| Samantha Gili |7.33m| 2005|
 ||Discus| Mariah Darmanin| 14.76m| 2024|
