@@ -368,7 +368,7 @@
 ||1200m| Elena Zammit |4'51"63 |2017|
 ||Long Jump| Mariah Darmanin| 3.75m| 2024|
 ||High Jump| Erika Pisani| 1.15m| 2006|
-||Shot| Samantha Gili |7.33m| 2005|
+||Shot| Chloe Ann Farrugia |9.19m| 2024|
 ||Discus| Mariah Darmanin| 18.31m| 2024|
 ||2200 XC| Giada Scicluna| 10'47"00| 2017|
 
