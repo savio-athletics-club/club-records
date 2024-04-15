@@ -405,7 +405,7 @@
 ||400m |Charlene Fenech| 65.23| 2015|
 ||600m |Stephanie Buttigieg| 1'58"1| 2015|
 ||800m |Stephanie Buttigieg| 2'49"06| 2015|
-||1500m| Stephanie Buttigieg| 6'29"0| 2015|
+||1500m| Skye Paulusma| 5'33"74| 2024|
 ||Long Jump| Kristy Fenech| 4.41m| 2015|
 ||High Jump | Amy Gauci |  1.21m | 2024 |
 ||Shot| Marylise Sammut| 7.52m| 2006|
