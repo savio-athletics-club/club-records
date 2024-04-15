@@ -406,6 +406,7 @@
 ||800m |Stephanie Buttigieg| 2'49"06| 2015|
 ||1500m| Stephanie Buttigieg| 6'29"0| 2015|
 ||Long Jump| Kristy Fenech| 4.41m| 2015|
+||High Jump | Amy Gauci |  1.21m | 2024 |
 ||Shot| Marylise Sammut| 7.52m| 2006|
 ||Discus| Marylise Sammut |17.25m |2006|
 ||Javelin| Marylise Sammut| 14.28m| 2006|
