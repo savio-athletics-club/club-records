@@ -363,7 +363,7 @@
 |:--------:|:------|:--------------|:------:|----:|
 |U/14 (Form 2)| 60m| Giada Scicluna| 9.56| 2017|
 ||100m |Livia Vella Anastasi| 13.69| 2024|
-||300m |Giada Scicluna| 47.92| 2017|
+||300m |Livia Vella Anastasi| 47.06| 2024|
 ||600m |Giada Scicluna| 1'57"67| 2017|
 ||1200m| Elena Zammit |4'51"63 |2017|
 ||Long Jump| Mariah Darmanin| 3.75m| 2024|
