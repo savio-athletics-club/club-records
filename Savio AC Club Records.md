@@ -200,6 +200,7 @@
 ||200m| Matthew Croker| 23.32| 2006|
 ||300m| Matthew Croker| 37.10| 2006|
 ||400m| Matthew Croker| 51.35| 2006|
+||400mH| Adam Caruana| 1'09.65|2024|
 ||800m| Jake Gauci| 2'04"43| 2018|
 ||1000m| Adam Caruana| 3'07"67| 2024|
 ||1500m| Jake Gauci| 4'19"31| 2018|
