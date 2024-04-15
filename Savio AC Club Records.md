@@ -399,7 +399,7 @@
 |:--------:|:------|:--------------|:------:|----:|
 |U/16 (Form 4)| 60m |Charlene Fenech| 8.56| 2015|
 ||100m |Charlene Fenech| 13.53| 2015|
-||200m |Charlene Fenech| 28.40| 2015|
+||200m |Amy Gauci| 28.28| 2024|
 ||300m |Charlene Fenech| 45.79| 2015|
 ||400m |Charlene Fenech| 65.23| 2015|
 ||600m |Stephanie Buttigieg| 1'58"1| 2015|
