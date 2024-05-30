@@ -367,7 +367,7 @@
 ||300m |Livia Vella Anastasi| 47.06| 2024|
 ||600m |Giada Scicluna| 1'57"67| 2017|
 ||1200m| Elena Zammit |4'51"63 |2017|
-||Long Jump| Mariah Darmanin| 3.75m| 2024|
+||Long Jump| Mariah Darmanin| 3.85m| 2024|
 ||High Jump| Erika Pisani| 1.15m| 2006|
 ||Shot| Chloe Ann Farrugia |9.19m| 2024|
 ||Discus| Chloe Ann Farrugia| 26.87m| 2024|
