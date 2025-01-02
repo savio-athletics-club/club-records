@@ -182,7 +182,7 @@
 ||Long Jump| James Schembri| 5.55m| 2005|
 ||High Jump| David Camilleri| 1.65m| 2008|
 ||Triple Jump| James Schembri| 11.14m| 2005|
-||Shot| Malcolm Bugeja| 10.26m| 2008|
+||Shot| Samuel Bonello| 10.46m| 2024|
 ||Discus| Samuel Bonello| 32.30m| 2024|
 ||Javelin| Malcolm Bugeja| 28.52m| 2008|
 ||Quadrathlon| Manwel Abela| 1761pts| 2015|
