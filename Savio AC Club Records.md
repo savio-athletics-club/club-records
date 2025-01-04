@@ -199,6 +199,7 @@
 ||150m| Darren Buttigieg| 18.1| 2009|
 ||200m| Matthew Croker| 23.32| 2006|
 ||300m| Matthew Croker| 37.10| 2006|
+||300mH| Adam Caruana| 50.04| 2024|
 ||400m| Matthew Croker| 51.35| 2006|
 ||400mH| Adam Caruana| 1'06.55| 2024|
 ||800m| Jake Gauci| 2'04"43| 2018|
