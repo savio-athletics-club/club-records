@@ -262,7 +262,7 @@
 ||5km| Isaias Tesfay| 16'20"5| 2005|
 ||10km Road| Matthew Farrugia| 35'25"00| 2007|
 ||Mdina2Spinola| Johan Bugeja| 1h08'11| 2018|
-||Half Marathon| Johan Bugeja| 1h23'32| 2020|
+||Half Marathon| Johan Bugeja| 1h18'41| 2025|
 ||Marathon| Carlos Mantero| 2h43'16| 2015|
 ||Long Jump| David Camilleri| 5.72m| 2014|
 ||High Jump| Matthew Saliba| 1.70m| 2005|
@@ -389,7 +389,7 @@
 ||600m| Skye Paulusma| 1'51"44| 2023|
 ||Long Jump |Skye Paulusma| 4.67m| 2023|
 ||High Jump |Samantha Gili| 1.15m| 2006|
-||Shot| Marylise Sammut| 7.13m| 2005|
+||Shot| Mariah Darmanin| 7.36m| 2025|
 ||Discus| Samantha Gili| 16.65m| 2006|
 ||3300 XC| Stephanie Buttigieg| 17'08"00| 2014|
 
