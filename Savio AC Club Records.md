@@ -389,8 +389,8 @@
 ||600m| Skye Paulusma| 1'51"44| 2023|
 ||Long Jump |Skye Paulusma| 4.67m| 2023|
 ||High Jump |Samantha Gili| 1.15m| 2006|
-||Shot| Chloe Ann Farrugia	| 8.06m| 2025|
-||Discus| Chloe Ann Farrugia	| 24.82m| 2025|
+||Shot| Chloe Ann Farrugia	| 8.62m| 2025|
+||Discus| Chloe Ann Farrugia	| 26.30m| 2025|
 ||3300 XC| Stephanie Buttigieg| 17'08"00| 2014|
 
 <a href="#female"><sub>Back to female category list</sub></a>
