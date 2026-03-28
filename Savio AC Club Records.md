@@ -410,8 +410,8 @@
 ||1500m| Skye Paulusma| 5'33"08| 2024|
 ||Long Jump| Kristy Fenech| 4.41m| 2015|
 ||High Jump | Amy Gauci |  1.21m | 2024 |
-||Shot| Mariah Darmanin | 8.45m| 2026|
-||Discus| Marylise Sammut |17.25m |2006|
+||Shot| Mariah Darmanin | 8.69m| 2026|
+||Discus| Chloe Anne Farrugia | 27.97m| 2026|
 ||Javelin| Marylise Sammut| 14.28m| 2006|
 ||Quadrathlon| Kristy Fenech| 1540pts| 2015|
 ||3300 XC| Stephanie Buttigieg| 16'40"00| 2015|
