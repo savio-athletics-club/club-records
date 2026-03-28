@@ -153,7 +153,7 @@
 ||Triple Jump| David Camilleri| 11.70m| 2007|
 ||Shot| Karol Spiteri| 12.17m| 2016|
 ||Discus| Karol Spiteri| 41.53m| 2016 NR|
-||Javelin| Karol Spiteri| 33.26m| 2016|
+||Javelin| Nathan Aquilina| 34.74m| 2026|
 ||4 x 100m| R. Abela, J. Borg, M. Scicluna, S. Azzopardi| 47.6| 1998|
 ||4 x 400m| Matthew Grima, R. Abela, J. Borg, M. Scicluna| 3'48"6| 1998|
 ||Hammer| Karol Spiteri| 43.22m| 2016|
@@ -273,6 +273,7 @@
 ||4 x 100m| Matthew Croker, Sacha Dunlop, Luca Cacciattolo, David Camilleri| 45.25| 2016|
 ||Quadrathlon| Matthew Croker| 2202pts| 2015|
 ||5km Road| Kurt Dalli| 16'09"00| 2023|
+||Backyard Ultra| Matthew Saliba| 18 yards - 120.71km| 2024|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
