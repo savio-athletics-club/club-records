@@ -74,7 +74,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U14 (Form 2)|75m Hurdles Kurstin Gatt| 11.99| 2005|
+|U14 (Form 2)|75m Hurdles |Kurstin Gatt| 11.99| 2005|
 ||60m| Darren Buttigieg| 8.09| 2005|
 ||80m| Peter Valletta| 10.6| 2009|
 ||100m| Matthew Croker| 12.3 |2002|
