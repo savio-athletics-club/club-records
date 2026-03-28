@@ -282,9 +282,9 @@
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
 |O/40| 5km| Raymond Scicluna| 18'55"3| 2015|
-||10km Road| Raymond Scicluna| 39'39"00| 2015|
 ||Half Marathon| Raymond Scicluna| 1h26'36| 2015|
 ||5km Road| Raymond Scicluna| 18'54"00| 2015|
+||10km Road| Raymond Scicluna| 39'39"00| 2015|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
@@ -293,10 +293,10 @@
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
 |O/45| 5km| Raymond Scicluna| 19'15| 2016|
-||10km Road| Raymond Scicluna| 38'12"00| 2016|
-||Half Marathon| Raymond Scicluna| 1h25'47| 2016|
 ||10km| Raymond Scicluna| 39'50'20| 2016|
+||Half Marathon| Raymond Scicluna| 1h25'47| 2016|
 ||5km Road| Raymond Scicluna| 18'36"00| 2016|
+||10km Road| Raymond Scicluna| 38'12"00| 2016|
 
 <a href="#male"><sub>Back to male category list</sub></a>
 
