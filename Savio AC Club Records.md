@@ -252,7 +252,7 @@
 ||100m| Matthew Croker| 11.47| 2014|
 ||200m| Matthew Croker| 22.54| 2014|
 ||300m| Matthew Croker| 36.00| 2022|
-||300mH| Jordan Pace| 39.27| 2024|
+||300mH| Jordan Pace| 39.11| 2026|
 ||400m| Matthew Croker| 49.23| 2014|
 ||600m| Matthew Croker| 1'23"41| 2017|
 ||800m| Matthew Croker| 1'53"72| 2016|
@@ -262,7 +262,7 @@
 ||5km| Isaias Tesfay| 16'20"5| 2005|
 ||10km Road| Matthew Farrugia| 35'25"00| 2007|
 ||Mdina2Spinola| Johan Bugeja| 1h08'11| 2018|
-||Half Marathon| Johan Bugeja| 1h18'41| 2025|
+||Half Marathon| Luca Flask| 1h18'13| 2026|
 ||Marathon| Carlos Mantero| 2h43'16| 2015|
 ||Long Jump| David Camilleri| 5.72m| 2014|
 ||High Jump| Matthew Saliba| 1.70m| 2005|
