@@ -104,7 +104,7 @@
 
 | Category | Event | Record Holder | Result |Year|
 |:--------:|:------|:--------------|:------:|----:|
-|U/15|(Form 3)|80m Hurdles|Clayton Bezzina|16.14|2006|
+|U/15 (Form 3)|80m Hurdles|Clayton Bezzina|16.14|2006|
 ||60m|Sacha Dunlop|7.93|2005|
 ||80m|Antoine Borg|11.8|2000|
 ||100m|Matthew Croker|12.1|2003|
@@ -121,7 +121,7 @@
 ||Triple Jump| David Camilleri|9.91m|2006|
 ||Shot|Karol Spiteri|12.12m|2015|
 ||Discus|Karol Spiteri|34.22m|2015|
-||Javelin|Karol Spiteri|34.45m|2015|
+||Javelin|Nathan Aquilina|34.74m|2026|
 ||4 x 100m| Peter Valletta, Shaun Livori, Luke Buttigieg, Kristian Bugeja|50.7|2010|
 ||4 x 400m| David Schembri, Matthew Saliba, Carl Vella, K. Spiteri|4'29"8|2000|
 ||Hammer|Karol Spiteri|39.01m|2015|
@@ -153,7 +153,7 @@
 ||Triple Jump| David Camilleri| 11.70m| 2007|
 ||Shot| Karol Spiteri| 12.17m| 2016|
 ||Discus| Karol Spiteri| 41.53m| 2016 NR|
-||Javelin| Nathan Aquilina| 34.74m| 2026|
+||Javelin| Karol Spiteri| 33.26m| 2016|
 ||4 x 100m| R. Abela, J. Borg, M. Scicluna, S. Azzopardi| 47.6| 1998|
 ||4 x 400m| Matthew Grima, R. Abela, J. Borg, M. Scicluna| 3'48"6| 1998|
 ||Hammer| Karol Spiteri| 43.22m| 2016|
